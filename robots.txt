@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oswue.github.io/Ufz/sitemap.Ufz
